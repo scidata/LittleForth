@@ -1,0 +1,1 @@
+Tiny array-based language (not much like Forth, despite the name, though it does work with two stacks and a dictionary), poorly written in Haskell.
